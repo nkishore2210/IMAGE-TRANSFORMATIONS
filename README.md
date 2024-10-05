@@ -46,7 +46,7 @@ plt.axis('off')
 plt.show()
 ```
 ### OUTPUT:
-![Screenshot 2024-10-05 192516](https://github.com/user-attachments/assets/be0477c4-04ae-4c49-b437-182403ac9109)
+![Screenshot 2024-10-05 193727](https://github.com/user-attachments/assets/a15087f5-adb7-4de0-b01a-dcd2e787f378)
 
 i)Image Translation
 ```
@@ -59,7 +59,7 @@ plt.axis('off')
 plt.show()
 ```
 ### OUTPUT:
-![Screenshot 2024-10-05 192529](https://github.com/user-attachments/assets/d2dcaf11-3886-442a-9cf9-e4a7a7607838)
+![Screenshot 2024-10-05 193733](https://github.com/user-attachments/assets/b34f21d1-c095-4146-b61e-790b24029e93)
 
 ii) Image Scaling
 ```
@@ -70,7 +70,7 @@ plt.axis('off')
 plt.show()
 ```
 ### OUTPUT:
-![Screenshot 2024-10-05 192536](https://github.com/user-attachments/assets/90998b55-addd-442a-aec6-cc574064778c)
+![Screenshot 2024-10-05 193739](https://github.com/user-attachments/assets/ef877c37-5456-408a-b8cc-5f867a300632)
 
 iii)Image shearing
 ```
@@ -82,7 +82,7 @@ plt.axis('off')
 plt.show()
 ```
 ### OUTPUT:
-![Screenshot 2024-10-05 192542](https://github.com/user-attachments/assets/e3cdfaf1-0103-43be-b3c2-4f13b29082ff)
+![Screenshot 2024-10-05 193744](https://github.com/user-attachments/assets/6ee9dda4-063c-433d-b04d-900acb1a6b74)
 
 iv)Image Reflection
 ```
@@ -93,7 +93,7 @@ plt.axis('off')
 plt.show()
 ```
 ### OUTPUT:
-![Screenshot 2024-10-05 192548](https://github.com/user-attachments/assets/0f3e60f9-97da-4b11-8a74-afa2e3e4285b)
+![Screenshot 2024-10-05 193753](https://github.com/user-attachments/assets/0596ea44-9ced-4e48-9bc4-2d9012261023)
 
 v)Image Rotation
 ```
@@ -105,7 +105,7 @@ plt.axis('off')
 plt.show()
 ```
 ### OUTPUT:
-![Screenshot 2024-10-05 192554](https://github.com/user-attachments/assets/a39ebd2f-14c5-4640-9743-d0d896d570d8)
+![Screenshot 2024-10-05 193801](https://github.com/user-attachments/assets/536d7ec0-2862-4400-b233-71b23596028b)
 
 vi)Image Cropping
 ```
@@ -118,7 +118,7 @@ plt.axis('off')
 plt.show()
 ```
 ### OUTPUT:
-![Screenshot 2024-10-05 192600](https://github.com/user-attachments/assets/0130a102-6de9-42aa-8e94-40e4535b88cb)
+![Screenshot 2024-10-05 193807](https://github.com/user-attachments/assets/9f52bc29-3d90-469c-ac35-125dea05e550)
 
 ## Result: 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
